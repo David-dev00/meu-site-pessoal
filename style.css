@@ -325,6 +325,7 @@ footer p {
     }
     .main-nav li a {
         padding: 12px 20px; /* Padding ajustado para mobile */
+        font-size: 0.9em; /*Fonte menor */
     }
     
     /* Demais ajustes originais */
